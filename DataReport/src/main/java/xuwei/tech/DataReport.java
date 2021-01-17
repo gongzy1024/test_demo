@@ -75,6 +75,7 @@ public class DataReport {
         prop.setProperty("bootstrap.servers","hadoop110:9092");
         prop.setProperty("group.id","con1");
 
+
         FlinkKafkaConsumer011<String> myConsumer = new FlinkKafkaConsumer011<>(topic, new SimpleStringSchema(), prop);
 
 
