@@ -73,6 +73,8 @@ public class DataReport {
         String topic = "auditLog";
         Properties prop = new Properties();
         prop.setProperty("bootstrap.servers","hadoop110:9092");
+
+
         prop.setProperty("group.id","con1");
 
 
