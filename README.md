@@ -1,7 +1,5 @@
 # FlinkProj
 Flink 案例代码
-
-
 从0基础到笑傲大数据成长体系课，传送门：https://class.imooc.com/sale/bigdata
 
 限时免费领取资料：https://pan.baidu.com/s/1mUxNF5oicB6dXek7wvf-9Q 
